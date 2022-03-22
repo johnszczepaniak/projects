@@ -33,12 +33,13 @@ embeds:
     link: "https://explore.duneanalytics.com/embed/query/8790/visualization/17606?api_key=jN8q3XqC8sWUnHw2uzLciDLXNPmv0I4IDYcJA5W3"
 ---
 
-Gnosis builds new market mechanisms for open finance. By designing fairer marketplaces with open-source building blocks, Gnosis is committed to supporting an accessible, equitable future for decentralized finance. Our three interoperable product lines allow you to securely create, trade, and hold crypto assets.
+GnosisDAO builds decentralized infrastructure for the Ethereum ecosystem.
 
-**Create:** Conditional tokens are an application-agnostic asset class designed for the creation of highly liquid prediction markets. This new type of asset uses the open Conditional Tokens Framework to enable combinatorial outcomes for information discovery through prediction markets, laying the foundation for use cases like futarchy, agentless escrow, and milestone-based funding & access rights allocation.
+In November 2021, the xDAI and GnosisDAO communities voted to combine their vibrant ecosystems to create the Gnosis Chain: An Ethereum forerunner-companion that addresses scaling issues through solid engineering. Gnosis Chain is the associated execution-layer EVM chain for stable transactions. It uses the xDai token and includes a wide-ranging group of projects and users.
 
-**Trade:** Gnosis Protocol is a fully permissionless DEX that prevents front-running, maximizes liquidity through ring trades, and facilitates captial-efficient programmable orders on a customizable price range with batch auctions and custom market makers.
+The Gnosis mission has always been centered on experimentation and building decentralized infrastructure for the Ethereum ecosystem. When Gnosis was founded in 2015, it focused on building prediction markets to enable worldwide access to accurate information. While creating the prediction market platform, it became clear that Gnosis needed to build the infrastructure required to support it. 
 
-**Hold:** Gnosis Safe Multisig is the trustless interface for Safe Apps, dApp modules that decode contract interaction into human-readable information for digital asset management on Ethereum. Safe Apps ensure security and persistence through IPFS hosting, and most are open-source and auditable.
+As a DAO, Gnosis uses the products that it creates to transparently guide decisions on the development, support, and governance of its ecosystem.
+Gnosis Safe (multisig and programmable account), Cow Protocol (formerly CowSwap and Gnosis Protocol), Conditional Tokens (prediction markets), Gnosis Auction, and Zodiac (standard and tooling for composable DAOs) are all products incubated by Gnosis. Their success can be demonstrated by the recent spin-out of Cow Protocol and the formation of SafeDAO. By combining needs-driven development with deep technical expertise, Gnosis has built the decentralized infrastructure for the Ethereum ecosystem.
 
 *From https://gnosis.io/*
